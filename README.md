@@ -6,7 +6,7 @@ Our brains hold human intelligence.
 Our brains are consisted of neurons that are connected.
 
 If we use N to represent a neuron, then the simplest representation of brain is:
-            Neuron*
+            N*
 
 Inside each neuron are dendrites that receive signals, axons that send out signals, and the cell body in between.
 
