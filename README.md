@@ -3,7 +3,7 @@ A Tutorial Implementation and Documentation of LLM
 
 Our brains hold human intelligence.
 
-Our brains consists neurons that are connected.
+Our brains are consisted of neurons that are connected.
 
 If we use N to represent a neuron, then the simplest representation of brain is:
             Neuron*
