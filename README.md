@@ -16,7 +16,7 @@ Thus a more detailed model of our brain is:
 
 Where [i*-S-o*] is a neuron, and i* are the Input dentrites, o* are the Output axons, and S is the body of neuron.
 
-Our brains are born innocent and almost identical, they know nothing, except for their ability to learn. Learning ability is the source of all human intelligence. 
+Our brains are born innocent and almost identical. Structurally completed, they can do almost nothing, except for their ability to learn. It is the structure per se, but the Learning ability that is the source of all human intelligence. 
 
 The most successful Large Language Models(LLM) are organized similarly as the neural networks of our brains. Once structurally created, the LLM behaves the same as a new born brain, knowing nothing. Nevertheless, this software simulation of our brain exibits extraordinary learning ability.
 
