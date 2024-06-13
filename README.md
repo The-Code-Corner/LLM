@@ -12,9 +12,9 @@ Inside each neuron are dendrites that receive signals, axons that send out signa
 
 Thus a more detailed model of our brain is:
 
-        [i*-N-o*]*
+        [i*-S-o*]*
 
-Where [i*-N-o*] is a neuron, and i* are the Input dentrites and o* are the Output axons
+Where [i*-S-o*] is a neuron, and i* are the Input dentrites, o* are the Output axons, and S is the body of neuron.
 
 Our brains are born innocent and almost identical, they know nothing, except for their ability to learn. Learning ability is the source of all human intelligence. 
 
